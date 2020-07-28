@@ -2,4 +2,4 @@
 
 # video link
 
-https://github.com/ChrisH81/ecommerce/blob/master/video.mp4
+https://github.com/ChrisH81/ecommerce/raw/master/video.mp4
